@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the SEO-Page (project-3)](https://ecommerce-page.netlify.app/)
+## [Link to the Ecommerce-Page (project-7)](https://ecomm-page.netlify.app/)
 
 
 ![Completed Website](ecom.png)

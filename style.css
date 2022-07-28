@@ -3,6 +3,7 @@
     font-family: "Poppins" , "Fredoka";
     padding: 0px;
     box-sizing: border-box;
+    max-width: 210rem;
 
 }
 nav{
