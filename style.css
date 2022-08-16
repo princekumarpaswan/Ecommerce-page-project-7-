@@ -312,12 +312,12 @@ nav{
 
      .logo2{
         margin-top: 10px;
-        margin-left: -80px;
+        margin-left: -10px;
         
      }
      .nav-item{
          margin-left: 15px;
-         font-size: 10px;
+         font-size: 20px;
          font-weight: 100;
          color: rgb(22, 18, 18);
      }
@@ -331,18 +331,18 @@ nav{
     }
 
     .left-section h3{
-        font-size: 15px;
+        font-size: 25px;
         font-weight: 100;
-        margin-left: 15px;
+        margin-left: 55px;
     }
     .left-section h1{
         text-align: center;
         font-size: 30px;
         width: 300px;
-        margin-left: -50px;
+        margin-left: 10px;
     }
     .sub-headlines{
-        margin-left: 30px;
+        margin-left: 60px;
         align-items: center;
         margin-top: 80px;
     
@@ -368,17 +368,17 @@ nav{
     }
     .text{
         text-align: center;
-        width: 120px;
-        font-size: 10px;
+        width: 220px;
+        font-size: 15px;
         color: rgb(61, 61, 58);
         margin-left: 50px;
     }
     .action-btns{
-        margin-left: -10px;
+        margin-left: 0px;
         margin-top: 50px;
     }
     .action-btn{
-        margin-left: 20px;
+        margin-left: 70px;
         width: 190px;
         height: 50px;
         border-radius: 25px;
@@ -403,7 +403,7 @@ nav{
         margin: 0px 0px !important;
         padding: 0px 0px !important;
         margin-top: 50px !important;
-        margin-left: 20px !important;
+        margin-left: 90px !important;
         z-index: -1;
 
     }
@@ -411,7 +411,7 @@ nav{
         display: flex;
         width: 50px;
         margin-top: -60px;
-        margin-left: 20px;
+        margin-left: 80px;
     
     }
     .discount-content{
@@ -423,7 +423,7 @@ nav{
     }
     .discount-content h4{
         margin-top: -30px;
-        padding-left: 25px;
+        padding-left: 35px;
     }
     .discount-content h1{
         display: none;
@@ -433,7 +433,7 @@ nav{
         margin-top: 10px !important;
         justify-content: left;
         margin-right: 0px;
-        margin-left: 0px;
+        margin-left: 20px;
         margin-bottom: 10px;
     }
     .dots{
