@@ -141,3 +141,314 @@ nav{
     margin-left: 10px;
 
 }
+
+
+@media(max-width:1000px){
+
+
+    *{
+        overflow-x: hidden !important;
+    }
+
+    nav{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-between;
+        margin: 20px 10px;
+     }
+     .nav-items{
+         display: flex;
+         float: left;
+         
+     }
+
+     .logo{
+        display: none;
+     }
+
+     .logo2{
+        margin-top: 50px;
+        margin-left: -420px;
+     }
+     .nav-item{
+         margin-left: 60px;
+         font-size: 25px;
+         font-weight: 100;
+         color: rgb(22, 18, 18);
+     }
+     .nav-item span{
+         font-weight: 900;
+         color: #FE5E35;
+     }
+
+     .left-section{
+        margin-left: 10px;
+    }
+
+    .left-section h3{
+        font-size: 20px;
+        font-weight: 100;
+        margin-left: 200px;
+    }
+    .left-section h1{
+        font-size: 50px;
+        margin-left: 50px;
+    }
+    .sub-headlines{
+        margin-left: 200px;
+        align-items: center;
+        margin-top: 80px;
+    
+    }
+    .sub-headline img{
+        background-color: #FE5E35;
+        border-radius: 15px;
+        padding: 3px;
+        align-items: center;
+        margin-right: 25px;
+    
+    }
+    .sub-headline{
+        display: flex;
+        font-size: 20px;
+        align-items: center;
+        justify-content: left;
+        margin-bottom: 30px;
+        font-weight: 600;  
+    }
+    .text{
+        text-align: center;
+        width: 400px;
+        font-size: 20px;
+        color: rgb(61, 61, 58);
+        margin-left: 100px;
+    }
+    .action-btns{
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+    .action-btn{
+        margin-left: 20px;
+        width: 190px;
+        height: 50px;
+        border-radius: 25px;
+        font-size: 20px;
+        background-color: #FE5E35;
+        color: white;
+        border: none;
+    }
+    .right-section{
+        display: block;
+        justify-content: left;
+        margin-top: 50px;
+        height: 1300px !important;
+    }
+    .headp{
+        margin-top: 50px;
+        width: 600px;
+        height: 1300px;
+    }
+    .discount{
+        display: flex;
+        margin-top: -250px;
+    
+    }
+    .discount-content{
+        display: flex;
+        margin-top: -100px;
+        padding-left: 30px;
+        color: white;
+    }
+    .discount-content h4{
+        margin-top: -30px;
+        padding-left: 25px;
+    }
+    .discount-content h1{
+        margin-top: -20px;
+        margin-left: -75px;
+        font-size: 50px;
+        font-weight: 900;
+        margin-bottom: 100px;
+    }
+    .btn2{
+        display: block;
+        margin-top: 10px !important;
+        justify-content: left;
+        margin-right: 0px;
+        margin-left: 190px;
+        margin-bottom: 50px;
+    }
+    .dots{
+        display:none;
+    
+    }
+
+}
+
+@media(max-width:700px){
+
+
+    *{
+        overflow-x: hidden !important;
+    }
+
+    nav{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-between;
+        margin: 20px 10px;
+     }
+     .nav-items{
+         display: flex;
+         float: left;
+         
+     }
+
+     .logo{
+        display: none;
+     }
+
+     .logo2{
+        margin-top: 10px;
+        margin-left: -80px;
+        
+     }
+     .nav-item{
+         margin-left: 15px;
+         font-size: 10px;
+         font-weight: 100;
+         color: rgb(22, 18, 18);
+     }
+     .nav-item span{
+         font-weight: 900;
+         color: #FE5E35;
+     }
+
+     .left-section{
+        margin-left: 10px;
+    }
+
+    .left-section h3{
+        font-size: 15px;
+        font-weight: 100;
+        margin-left: 15px;
+    }
+    .left-section h1{
+        text-align: center;
+        font-size: 30px;
+        width: 300px;
+        margin-left: -50px;
+    }
+    .sub-headlines{
+        margin-left: 30px;
+        align-items: center;
+        margin-top: 80px;
+    
+    }
+    .sub-headlines h5{
+       font-size: 10px !important;
+    }
+    .sub-headline img{
+        background-color: #FE5E35;
+        border-radius: 15px;
+        padding: 3px;
+        align-items: center;
+        margin-right: 25px;
+    
+    }
+    .sub-headline{
+        display: flex;
+        font-size: 20px;
+        align-items: center;
+        justify-content: left;
+        margin-bottom: 30px;
+        font-weight: 600;  
+    }
+    .text{
+        text-align: center;
+        width: 120px;
+        font-size: 10px;
+        color: rgb(61, 61, 58);
+        margin-left: 50px;
+    }
+    .action-btns{
+        margin-left: -10px;
+        margin-top: 50px;
+    }
+    .action-btn{
+        margin-left: 20px;
+        width: 190px;
+        height: 50px;
+        border-radius: 25px;
+        font-size: 20px;
+        background-color: #FE5E35;
+        color: white;
+        border: none;
+        margin-bottom: 10px;
+
+    }
+    .right-section{
+        width: 350px;
+        display: block;
+        justify-content: left;
+        margin: 0px 0px !important;
+        padding: 0px 0px !important;
+        height: fit-content !important;
+    }
+    .headp{
+        width: 200px;
+        height: 200px;
+        margin: 0px 0px !important;
+        padding: 0px 0px !important;
+        margin-top: 50px !important;
+        margin-left: 20px !important;
+        z-index: -1;
+
+    }
+    .discount{
+        display: flex;
+        width: 50px;
+        margin-top: -60px;
+        margin-left: 20px;
+    
+    }
+    .discount-content{
+        display: flex;
+    
+        margin-top: 0px;
+        padding-left: 30px;
+        color: white;
+    }
+    .discount-content h4{
+        margin-top: -30px;
+        padding-left: 25px;
+    }
+    .discount-content h1{
+        display: none;
+    }
+    .btn2{
+        display: block;
+        margin-top: 10px !important;
+        justify-content: left;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    .dots{
+        display:none;
+    
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
